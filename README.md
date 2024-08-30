@@ -5,14 +5,14 @@ This is a complete list of learning resources for robotics (books + courses + do
 ![Logo](https://engineering.case.edu/sites/default/files/styles/_none/public/robot-mantis067.jpg?itok=uP1ETa80)
 
 
-## Linear Algebra
+## Mathematics
 - `Course` [MIT 18.06SC Linear Algebra](https://youtube.com/playlist?list=PL221E2BBF13BECF6C&si=MwA9x5Hd-d-nEVzK)
 - `Course` [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&si=BCny5yoX7I38KrG4)
+- `Course` [MIT 18.S096 Matrix Calculus For Machine Learning And Beyond](https://youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE&si=GuRYITbFk-uKapgG)
 
 
 ## Image Processing / Computer Vision
 - `Course`[OpenCV & C++ Tutorials](https://youtube.com/playlist?list=PLUTbi0GOQwghR9db9p6yHqwvzc989q_mu&si=DfwJns_q7viZgPN5)
-- `Course`[KITTI Odometry with OpenCV Python](https://youtube.com/playlist?list=PLrHDCRerOaI9HfgZDbiEncG5dx7S3Nz6X&si=spmMm9YyJ--Y9qCB)
 - `Course`[Multiple View Geometry in Computer Vision](https://youtube.com/playlist?list=PLyH-5mHPFffFvCCZcbdWXAb_cTy4ZG3Dj&si=5wi6Z2KRn95HCyDl)
 - `Course`[Essentials of Object Detection](https://youtube.com/playlist?list=PLivJwLo9VCUJXdO8SiOjZTWr_fXrAy4OQ&si=9BCBlkrdtDhFxguy)
 
