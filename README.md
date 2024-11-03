@@ -7,18 +7,14 @@ This is a complete list of learning resources for robotics (books + courses + do
 
 ## Mathematics
 - `Course` [MIT 18.06SC Linear Algebra](https://youtube.com/playlist?list=PL221E2BBF13BECF6C&si=MwA9x5Hd-d-nEVzK)
-- `Course` [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k&si=BCny5yoX7I38KrG4)
 - `Course` [MIT 18.S096 Matrix Calculus For Machine Learning And Beyond](https://youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE&si=GuRYITbFk-uKapgG)
 
 
-## Image Processing / Computer Vision
-- `Course`[OpenCV & C++ Tutorials](https://youtube.com/playlist?list=PLUTbi0GOQwghR9db9p6yHqwvzc989q_mu&si=DfwJns_q7viZgPN5)
-- `Course`[Multiple View Geometry in Computer Vision](https://youtube.com/playlist?list=PLyH-5mHPFffFvCCZcbdWXAb_cTy4ZG3Dj&si=5wi6Z2KRn95HCyDl)
-- `Course`[Essentials of Object Detection](https://youtube.com/playlist?list=PLivJwLo9VCUJXdO8SiOjZTWr_fXrAy4OQ&si=9BCBlkrdtDhFxguy)
+## Vision
+- `Course`[3D Computer Vision | National University of Singapore](https://youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz&si=PfXi_ueJKLd2si8H)
 
 - `Paper`[3D Object Detection for Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2206.09474)
 
 
 ## Point Cloud
-
 - `Course`[3D Machine Learning](https://youtube.com/playlist?list=PLyi5FHzX7hBzv6p_USmzLvL8TBKWljOph&si=SrA0O0vz3RNTmfny)
