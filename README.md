@@ -11,10 +11,14 @@ This is a complete list of learning resources for robotics (books + courses + do
 
 
 ## Vision
-- `Course`[3D Computer Vision | National University of Singapore](https://youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz&si=PfXi_ueJKLd2si8H)
+- `Course` [3D Computer Vision | National University of Singapore](https://youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz&si=PfXi_ueJKLd2si8H)
 
-- `Paper`[3D Object Detection for Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2206.09474)
+- `Paper` [3D Object Detection for Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2206.09474)
 
 
 ## Point Cloud
-- `Course`[3D Machine Learning](https://youtube.com/playlist?list=PLyi5FHzX7hBzv6p_USmzLvL8TBKWljOph&si=SrA0O0vz3RNTmfny)
+- `Course` [3D Machine Learning](https://youtube.com/playlist?list=PLyi5FHzX7hBzv6p_USmzLvL8TBKWljOph&si=SrA0O0vz3RNTmfny)
+
+
+## SLAM
+- `Course` [Simultaneous Localization and Mapping (SLAM) for Robotics](https://youtube.com/playlist?list=PLZ_sI4f41TGtsqgT6cMLCUCYOT7mCjBMM&si=5HwbbZYfaM1lu3y1)
