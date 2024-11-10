@@ -11,7 +11,6 @@ This is a complete list of learning resources for robotics (books + courses + do
 
 
 ## Vision
-- `Course` [3D Computer Vision | National University of Singapore](https://youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz&si=PfXi_ueJKLd2si8H)
 
 - `Paper` [3D Object Detection for Autonomous Driving: A Comprehensive Survey](https://arxiv.org/abs/2206.09474)
 
