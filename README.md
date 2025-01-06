@@ -1,5 +1,7 @@
 # 📚 Learning Materials
 
+This repo is getting updated regularly
+
 This is a complete list of learning resources for robotics (books + courses + documents + articles)
 
 ![Logo](https://engineering.case.edu/sites/default/files/styles/_none/public/robot-mantis067.jpg?itok=uP1ETa80)
