@@ -1,6 +1,6 @@
 # 📚 Learning Materials
 
-This repo is getting updated regularly
+... This repo is getting updated regularly ...
 
 This is a complete list of learning resources for robotics (books + courses + documents + articles)
 
